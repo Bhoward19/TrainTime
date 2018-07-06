@@ -1,0 +1,19 @@
+.jumbotron {
+    color: rgb(32, 27, 201);
+    background-position-y: 10%;
+    color: #fff;
+    background-color: #2f22d8;
+}
+
+div.panel-body {
+    background-image: url('../images/thomas.jpg');
+    background-position: center;
+    color: rgb(0, 0, 0);
+}
+
+.btn-primary {
+    background-color: #2209ae;
+    border-color: #fff;
+    font-weight: bold;
+}
+
